@@ -1,2 +1,4 @@
 # PCA-and-SVM-on-MNIST
-Perfomed PCA for different number of principal components and implementes multi class SVM using one vs rest on MNIST dataset
+Performed PCA for different numbers of principal components and implemented multi-class SVM using <b>One vs Rest</b> on the MNIST dataset.
+
+
